@@ -1,6 +1,6 @@
 Query EventPath
 
-Command line program to query EventPath's DBISAM Database. 
+Command line program to query EventPath's DBISAM (v1.0) Database. 
 
 Takes a SQL string as it's argument and returns the results as an XML string.
 
